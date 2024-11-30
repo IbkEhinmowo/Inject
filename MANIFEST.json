@@ -1,0 +1,10 @@
+{
+"name": "Convers",
+"version": "1.0.0",
+"description": "Convers builds upon your chatgpt to add some more features",
+"manifest_version": 3,
+"action": {
+"default_popup": "index.html",
+
+}
+}
